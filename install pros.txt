@@ -1,0 +1,5 @@
+mongo cluster database  user and pass :  learnmongo
+
+
+1/ npm init --y
+2/ npm i mongodb dotenv
